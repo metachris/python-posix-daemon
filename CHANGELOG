@@ -1,0 +1,1 @@
+[2010-12-26] daemon2x.py: replace '/dev/null' with os.devnull
